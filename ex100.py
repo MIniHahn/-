@@ -14,4 +14,4 @@ for i in range(10):
         print ("您还有%d次机会" %(9-i))
     else:
         print ("恭喜您，猜对了！") 	
-        break
+        break 
